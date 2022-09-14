@@ -1,0 +1,18 @@
+1
+                 Chemistry at HARvard Macromolecular Mechanics
+           (CHARMM) - Developmental Version 47b1     August 15, 2022            
+                                   b911d5dca                                    
+       Copyright(c) 1984-2022  President and Fellows of Harvard College
+                              All Rights Reserved
+  Current operating system: Linux-4.15.0-192-generic(x86_64)@condos.umaryland   
+                 Created on  9/14/22 at 13:27:37 by user: ynan        
+
+            Maximum number of ATOMS:    360720, and RESidues:      120240
+ RDTITL> No title read.
+
+      ***** LEVEL  1 WARNING FROM <RDTITL> *****
+      ***** Title expected.
+      ******************************************
+      BOMLEV (  0) IS NOT REACHED. WRNLEV IS  5
+
+  
